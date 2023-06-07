@@ -1,0 +1,4 @@
+baseURL = 'https://rajendraprajapati.com.np/'
+languageCode = 'en-us'
+title = 'Rajendra Prajapati'
+theme = 'ananke'
